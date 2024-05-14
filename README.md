@@ -1,4 +1,4 @@
-### A PHP that helps in parsing and processing scrapped CSV & XML data
+### A PHP script that helps in parsing and processing scrapped CSV & XML data
 
 ### Notes
 
